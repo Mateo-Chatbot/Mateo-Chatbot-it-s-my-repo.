@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61560951290111"
+    "100090443419982","100091893014482"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐌𝐀𝐓𝐄𝐎 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 ( 𝙻𝚃𝙳 )",
-  "prefix": "?",
+  "nickNameBot": "Mêñɗîñɠ mƴ ɓr̃õƙêñ💔🥺 pîêçê",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
